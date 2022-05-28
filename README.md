@@ -6,5 +6,8 @@ The goal of the game is to arrange movable square blocks of three different colo
 
 <img src="https://github.com/mi-sts/puzzle-game/blob/main/preview.PNG" width="400"/>
 
+### Controls
+- Moving blocks - mouse dragging.
+
 ### Tools
 This project was created using the **Unity** game engine version **2021.1.7f1**.
